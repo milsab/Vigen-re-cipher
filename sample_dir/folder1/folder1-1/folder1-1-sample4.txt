@@ -1,0 +1,46 @@
+4K Ultra HD Explained
+---------------------
+If you’ve been following the television industry, 4K TV is something that manufacturers have been pushing since late 2012. Also known as ultra high-definition (UHD) or Ultra HD, 4K is the next step-up in resolution of flat-screen displays, offering four times the pixel resolution of a “regular” 1080p HDTV.
+CEA's 4K promotional video
+Technically, 4K refers to the 4096×2160 Digital Cinema resolution, whereas 3840×2160 should be classed as Ultra HD, but the term “4K” is just so much catchier – many TV makers have been using it to market their ultra high-def models even though their native screen resolution is 3840×2160. There have been calls from certain camps, notably video guru Joe Kane, to use “2160p” which is arguably the most accurate, all-encompassing description.
+The standard for UHDTV has been defined by the International Telecommunications Union (ITU), the organisation responsible for setting such standards worldwide, under its Rec.2020 document to not only deliver higher resolution, but also include wider colour gamut, greater bit-depth and higher frame rates. However, limitations in display technologies mean that most (if not all) of the 4K TVs available to buy at this time of writing are still using the existing HDTV colour space of Rec.709.
+
+Key 4K TV Features
+------------------
+HDMI 2.0
+While the first generation of UHD televisions only supported 3840×2160 resolution up to 30Hz or 4096×2160 up to 24Hz as restricted by HDMI 1.4a, the arrival of HDMI 2.0 in September 2013 has allowed for 4K resolution at higher frame rates, namely 50p and 60p. This is particularly useful for fast-paced, action-packed programmes such as live sports broadcasts.
+
+HDMI 2.0
+Delving into various HDMI 2.0 levels, some displays marketed as such are HDMI 1.4a devices “hacked” or “upgraded” to support 4K@60fps/50fps but only at 8-bit, 4:2:0. The Panasonic WT600 series is the first consumer 4K TV to support the highest level of HDMI 2.0 specification (4Kp50 and 4Kp60 at 8-bit 4:4:4 or 12-bit 4:2:2, 18Gbps throughput).
+
+HEVC Decoding
+Due to increased pixel density and potentially higher bit-depth plus chroma resolution, the file sizes of 4K videos are understandably going to be much larger, making them more difficult to transmit, store and manage. To tackle this issue, h.265 (superseding h.264) or High Efficiency Video Codec (HEVC) has been programmed to make file sizes smaller and more manageable, delivering similar image quality with a compression that’s almost twice as efficient. As more and more Ultra HD videos are packaged by HEVC, owning a 4K telly which is capable of decoding HEVC internally becomes all the more important.
+
+Netflix 4K
+Native 4K content remains very thin on the ground. While owners of Samsung and Sony 4K Ultra HD televisions in the USA have access to proprietary content in the form of the former’s UHD Video Pack and the latter’s 4K Media Player respectively, the choices available to UK and European viewers are much more limited, of which Netflix 4K is probably the most easily accessible.
+
+House of Cards S2 in 4K
+Video streaming specialist Netflix has begun offering a handful of material in ultra high-definition resolution, starting with political drama House Of Cards Season 2 back in April 2014, followed by Breaking Bad in June 2014. Whilst not necessarily better in picture quality than well-mastered 1080p Blu-rays, Netflix’s 4K clips look visibly superior to the company’s second- and third-highest “Super HD” and “1080p HD” layers.
+To watch Netflix 4K, you will need:
+A Netflix subscription (£6.99 a month);
+A compatible 4KTV with inbuilt HEVC decoding and updated Netflix client. Most of the 2014 4K televisions support Netflix 4K streaming, except for Panasonic’s AX800/ AX802 whose Pro4 processing chip does not meet Netflix’s certification; and
+A fast enough broadband with speed of at least 15 Mbps.
+
+HDCP 2.2
+This is the latest version of the High-bandwidth Digital Content Protection scheme which has been developed to thwart unauthorised copying of digital AV content across connected devices. While currently there isn’t any consumer content encrypted by HDCP 2.2, we expect next-generation 4K Blu-ray (when if it eventually arrives) to use it. Owning an Ultra HD TV with HDCP 2.2 compatibility is essential for hitch-free playback of such material.
+
+Best 2014 4K TVs
+----------------
+Panasonic AX802
+This second-generation ultra high-definition television from the Japanese manufacturer delivers some of the most gorgeous images we’ve seen from an LCD-based display, largely due to its unique ability to preserve colour saturation in darker scenes and also in 3D owing to Panasonic’s Studio Master Drive technology.
+Panasonic AX802
+The Viera TX-65AX802B was voted as the best 4K TV in a 2014 comparison event we held, beating the Sony and the Samsungs, even though it doesn’t support Netflix 4K streaming. In our review of the 50-inch model, we also gave it our “Highly Recommended – Best in Class” award.
+
+Sony X9005B
+This 2014 update to Sony’s critically-acclaimed Bravia X9 series is yet another excellent TV from the Japanese brand that handles all sorts of content – ranging from Blu-ray movies and HD broadcast to live sports programmes and video games – with aplomb.
+Sony KD-55X9005B
+While the front-firing Magnetic Fluid speakers by the sides of the LCD screen may put off buyers with space constraints or their own surround sound setup, they undoubtedly provide the best audio quality of any flat-screen television we’ve tested to date. Here’s our full review of the 55-inch version.
+
+Samsung HU7500
+This isn’t even the Korean TV maker’s highest-end UHD television (that title belongs to the curved HU8500 series), but by virtue of its flat panel, its blacks and screen uniformity are slightly better than the HU8500.
+As expected from a Samsung display, upscaling and video processing is top-notch. The supplied array of calibration controls is comprehensive, allowing greyscale and colours to be dialled in accurately. We’ve reviewed the 55in HU7500 here.

@@ -1,0 +1,21 @@
+#!/bin/bash
+
+DIST_NAME=exercise-dist-vigenere.zip
+PROJECT_DIR=$PWD
+if [ ! -e "${PROJECT_DIR}/src/main/java" ]; then
+  PROJECT_DIR=`dirname $0`
+fi
+
+echo PROJECT_DIR=${PROJECT_DIR}
+
+if [ -e "${PROJECT_DIR}/src/main/java" ]; then
+  cd ${PROJECT_DIR}
+  [ -n "$(which markdown-pdf)" ] && markdown-pdf README.md
+  find sample_dir -type f | grep  '.encrypted$' | xargs rm
+  find sample_dir -type f | grep  '.decrypted$' | xargs rm
+  zip -r ${DIST_NAME} README.md *.pdf pom.xml src sample_dir scripts
+  zip -d exercise-dist-vigenere.zip '__MACOSX*'
+  zip -d exercise-dist-vigenere.zip '*/.DS_Store'
+else
+  echo Cannot find the source directory, please execute this script in the project dir
+fi
